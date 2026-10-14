@@ -1,6 +1,6 @@
 create database banking_db;
 use banking_db;
-LOAD DATA LOCAL INFILE 'C:/Users/Pradeep Kumar/OneDrive/Desktop/SLA/BankChurners.csv/BankChurners.csv'
+LOAD DATA LOCAL INFILE 'Replace with Your File Path'
 INTO TABLE credit_card_churn
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
